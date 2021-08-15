@@ -1,0 +1,2 @@
+More information： Logistic Boosting Regression for Label Distribution Learning （CVPR 2016）
+（https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xing_Logistic_Boosting_Regression_CVPR_2016_paper.pdf）
